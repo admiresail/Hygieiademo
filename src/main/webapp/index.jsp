@@ -51,7 +51,7 @@
 <!-- Main jumbotron for a primary marketing message or call to action -->
 <div class="jumbotron">
     <div class="container">
-        <h1>Hygieia dashboard implementation</h1>
+        <h1>Hygieia dashboard implementation demo</h1>
         <p>Hygieia is an OSS Project Sponsored by Capital One which promotes a single, configurable, easy to use dashboard to visualize near real-time status of the entire delivery pipeline.</p>
         <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
     </div>
